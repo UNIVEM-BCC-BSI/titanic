@@ -14,8 +14,8 @@ Bem-vindo ao projeto **Titanic Machine Learning**. Este guia tem como objetivo e
 ````
 ### 2. Carregar os dados
 ```python
-  train = pd.read_csv('train.csv')
-  test = pd.read_csv('test.csv')
+  train = pd.read_csv('data/train.csv')
+  test = pd.read_csv('data/test.csv')
 ```
 ### 3. Tratar valores nulos e converter variáveis
 ```python
@@ -115,5 +115,5 @@ print("Arquivo 'submission.csv' gerado com sucesso!")
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato pelo e-mail do desenvolvedor.
+Para dúvidas ou suporte, entre em contato com o desenvolvedor.
 
