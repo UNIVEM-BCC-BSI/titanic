@@ -86,6 +86,7 @@ print("Arquivo 'submission.csv' gerado com sucesso!")
 
 ## Requisitos
 
+- Pyhton instalado [site oficial](https://www.python.org/)
 - bibliotecas do scikit-learn e pandas, que não vêm por padrão.
   ```python
   pip install pandas numpy scikit-learn
