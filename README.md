@@ -2,6 +2,9 @@
 
 Bem-vindo ao projeto **Titanic Machine Learning**. Este guia tem como objetivo explicar os processos da criação do codigo e instalação
 
+## Canva Link
+https://www.canva.com/design/DAG5mwUOf90/joQqXwK0PuVvBznt0pzV2A/edit?utm_content=DAG5mwUOf90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Explicando
 ### 1. Importar bibliotecas
 ```python
